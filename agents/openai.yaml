@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilingual Literature Organizer"
+  short_description: "Archive and translate academic sources for Obsidian"
+  default_prompt: "Use $organize-bilingual-literature to archive this paper or lecture in my current workspace as a bilingual Obsidian note."
